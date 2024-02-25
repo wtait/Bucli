@@ -16,7 +16,7 @@ async function printArt(filePath: string) {
   // Iterate over each line
   for (let line of lines) {
     console.log(line)
-    await delay(75)
+    await delay(50)
   }
 }
 
