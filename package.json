@@ -8,13 +8,13 @@
   "bin": {
     "bucli": "./index.ts"
   },
+  "scripts": {
+    "buckli init": "bun link && bun link bucli"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
-  },
-  "dependencies": {
-    "bucli": "link:bucli"
   }
 }
