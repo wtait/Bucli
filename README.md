@@ -10,6 +10,18 @@ https://bun.sh/
 curl -fsSL https://bun.sh/install | bash
 ```
 
+clone the repostory:
+
+```bash
+git clone https://github.com/wtait/Bucli.git
+```
+
+navigate to the installed directory:
+
+```bash
+cd Bucli
+```
+
 Install project dependencies:
 
 ```bash
@@ -19,7 +31,7 @@ bun install
 link the cli to your shell:
 
 ```bash
-bun run start
+bun start
 ```
 
 use the cli:
