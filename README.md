@@ -2,7 +2,7 @@
 
 Template for building cli apps with Bun.
 
-## Install bun
+Install bun
 
 https://bun.sh/
 
