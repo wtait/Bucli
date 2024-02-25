@@ -1,6 +1,9 @@
 {
   "name": "bucli",
   "module": "index.ts",
+  "version": "0.0.1",
+  "description": "A simple template for creating CLI applications with Bun",
+  "license": "MIT",
   "type": "module",
   "bin": {
     "bucli": "./index.ts"
