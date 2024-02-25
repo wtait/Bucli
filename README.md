@@ -10,20 +10,20 @@ https://bun.sh/
 curl -fsSL https://bun.sh/install | bash
 ```
 
-To install dependencies:
+Install project dependencies:
 
 ```bash
 bun install
 ```
 
-To run:
+link the cli to your shell:
 
 ```bash
-bun run configure
+bun run start
 ```
 
+use the cli:
 ```bash
 bucli
 ```
 
-This project was created using `bun init` in bun v1.0.29. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
