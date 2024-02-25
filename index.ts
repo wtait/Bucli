@@ -20,4 +20,5 @@ async function printArt(filePath: string) {
   }
 }
 
+await $ `bun link bucli`
 await printArt('art/bucli.txt')
