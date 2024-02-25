@@ -9,7 +9,7 @@
     "bucli": "./index.ts"
   },
   "scripts": {
-    "configure": "bun link && bun link bucli"
+    "start": "bun link && bun link bucli"
   },
   "devDependencies": {
     "@types/bun": "latest"

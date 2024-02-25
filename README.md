@@ -1,5 +1,15 @@
 # bucli
 
+Template for building cli apps with Bun.
+
+## Install bun
+
+https://bun.sh/
+
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+
 To install dependencies:
 
 ```bash
